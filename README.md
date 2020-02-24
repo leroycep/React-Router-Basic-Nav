@@ -22,11 +22,11 @@ Topics:
 
 ### Steps for implementing React Router
 
-- [ ] You'll notice we've already installed `react-router-dom` for you.
-- [ ] `import` your BrowserRouter as Router inside your `index.js` file.
-- [ ] Wrap your `<App />` component that you're passing to `ReactDOM.render()`
+- [x] You'll notice we've already installed `react-router-dom` for you.
+- [x] `import` your BrowserRouter as Router inside your `index.js` file.
+- [x] Wrap your `<App />` component that you're passing to `ReactDOM.render()`
       with your new `Router` component.
-- [ ] open up your chrome `REACT DEV TOOLS` and notice your app is now all
+- [x] open up your chrome `REACT DEV TOOLS` and notice your app is now all
       wrapped in `BrowserRouter`
 
 ### Steps for "Declaring" your routes
